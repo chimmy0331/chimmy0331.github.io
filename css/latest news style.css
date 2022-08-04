@@ -38,7 +38,7 @@ nav li{
 	background-color: #f05f5c!important;
 }
 #second{
-	background-color: #CDF0EA;
+	background-color: #F9F9F9;
 	padding: 80px 0px;
 }
 #second h3, #latest h3{
@@ -46,8 +46,8 @@ nav li{
 	font-size: 32px;
 }
 #second img{
-	border-radius: 100%;
-    width: 108px;
+	/* border-radius: 100%; */
+    width: 300px;
 }
 #second h5{
 	margin-top: 22px;
